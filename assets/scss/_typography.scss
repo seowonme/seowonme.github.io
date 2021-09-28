@@ -2,10 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700');
 
 @font-face {
-  font-family: 'BwNistaInt-xBd';
-  src: url("../fonts/BwNistaInt-xBd.woff") format("woff");
+  font-family:'NanumGothic';
+  src: url('images/NanumGothic.eot');
+  src: url('images/NanumGothic.eot?#iefix') format('embedded-opentype'),
+       url('images/NanumGothic.woff') format('woff'),
+       url('images/NanumGothic.ttf') format('truetype');
+  font-weight: normal;
   font-style: normal;
-  font-display: swap;
 }
 
 body {
