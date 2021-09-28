@@ -77,17 +77,17 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
+  - title : "최서원"
+    image : "assets/images/team/member1.jpa"
+    designation : "백엔드"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
+  - title : "장민주"
+    image : "assets/images/team/member2.jpa"
+    designation : "백엔드"
     
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
+  - title : "임민영"
+    image : "assets/images/team/member3.jpa"
+    designation : "백엔드"
 
 
 #-------------------------------
