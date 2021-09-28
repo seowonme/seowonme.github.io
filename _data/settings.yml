@@ -78,15 +78,15 @@ work-process:
 # My Team Section
 team:
   - title : "최서원"
-    image : "assets/images/team/member1.jpa"
+    image : "assets/images/team/member1.jpg"
     designation : "백엔드"
     
   - title : "장민주"
-    image : "assets/images/team/member2.jpa"
+    image : "assets/images/team/member2.jpg"
     designation : "백엔드"
     
   - title : "임민영"
-    image : "assets/images/team/member3.jpa"
+    image : "assets/images/team/member3.png"
     designation : "백엔드"
 
 
